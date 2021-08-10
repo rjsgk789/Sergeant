@@ -9,13 +9,21 @@
 
 
 여러 대회 알아보는 곳
+
 https://programmers.co.kr/competitions?page=2
+
 https://www.acmicpc.net/contest/official/list
 
+
+
+
 Softeer 알고리즘 정기 역량 진단
+
 https://softeer.ai/certificationList.do
 
 
-머신러닝 연습과제
-https://programmers.co.kr/skill_check_assignments
 
+
+머신러닝 연습과제
+
+https://programmers.co.kr/skill_check_assignments
