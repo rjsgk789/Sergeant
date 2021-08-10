@@ -18,3 +18,4 @@ https://softeer.ai/certificationList.do
 
 머신러닝 연습과제
 https://programmers.co.kr/skill_check_assignments
+
